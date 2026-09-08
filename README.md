@@ -1,3 +1,5 @@
 # apnacollage-demo
 This is my first Git Repository
-Author - Rajnish Kumar
+<br>
+Author - Rajnish Kumar (Apna collage)
+
